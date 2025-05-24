@@ -28,13 +28,13 @@
 
 ---
 
-## 🛠️ Ongoing Projects
+## 🛠️ Projects in Development
 
 | Project | Description |
 |--------|-------------|
 | 🕹️ Universal Emulator | Modular emulator for classic consoles (CHIP-8, GB, GBC, GBA), built with C++ and Flutter |
 | 🗃️ Inventory System | Full-featured app using Flutter + FastAPI + PostgreSQL |
-| 🧾 Queue Management System | Service queue with JWT authentication, TTS, PDF reports, and real-time queue handling |
+| ⏱️ Enterprise Time Tracking App | Cross-platform app (Flutter frontend + PostgreSQL backend) using **MediaPipe** for facial recognition and validation with 468 face landmarks |
 
 ---
 
