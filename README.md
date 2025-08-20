@@ -10,11 +10,8 @@
 
 ## 🚀 Technologies & Languages
 
-- 🧠 **C++** — Performance and low-level control
 - 🐍 **Python** — Scripting, automation, and backend
-- ⚙️ **Assembly** — Deep hardware understanding
 - 💙 **Dart/Flutter** — Cross-platform development (web, Android, desktop)
-- 🌐 **JavaScript** — Frontend and dynamic applications
 
 ---
 
@@ -32,9 +29,9 @@
 
 | Project | Description |
 |--------|-------------|
-| 🕹️ Universal Emulator | Modular emulator for classic consoles (CHIP-8, GB, GBC, GBA), built with C++ and Flutter |
-| 🗃️ Inventory System | Full-featured app using Flutter + FastAPI + PostgreSQL |
-| ⏱️ Enterprise Time Tracking App | Cross-platform app (Flutter frontend + PostgreSQL backend) using **MediaPipe** for facial recognition and validation with 468 face landmarks |
+| 🧿 Oraculum | Professional AI/ML for studies and Business consultation|
+| 📃 SmartDocs | AI for modularized document generation, based on context and models |
+|  QMS | Queue Management System with telegram support, TTS, personal Ad view, etc |
 
 ---
 
