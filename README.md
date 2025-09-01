@@ -45,6 +45,14 @@
 
 ---
 
+How to support:
+  - PIX (Brazil): 41992932211
+  - BTC: 15F3HAg4DcwtnhCmYNw3sApxb4WWgN3dgp
+  - LTC: 0xddbe933209d80d09e87a9927d84515f403c556b0
+  - ETH: 0xddbe933209d80d09e87a9927d84515f403c556b0
+  - XRP: 0xddbe933209d80d09e87a9927d84515f403c556b0
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GLarsX7&style=flat-square&color=blue" alt="Profile views"/>
 </p>
