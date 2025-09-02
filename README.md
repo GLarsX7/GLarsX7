@@ -10,7 +10,7 @@
 
 ## 🚀 Technologies & Languages
 
-- 🐍 **Python** — Scripting, automation, and backend
+- 🐍 **Python** — Scripting, automation, and backend  
 - 💙 **Dart/Flutter** — Cross-platform development (web, Android, desktop)
 
 ---
@@ -18,20 +18,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GLarsX7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GLarsX7&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLarsX7&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLarsX7&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🛠️ Projects in Development
 
-| Project | Description |
-|--------|-------------|
-| 🧿 Oraculum | Professional AI/ML for studies and Business consultation|
-| 📃 SmartDocs | AI for modularized document generation, based on context and models |
-|  QMS | Queue Management System with telegram support, TTS, personal Ad view, etc |
+| Project    | Description                                                                 |
+|------------|-----------------------------------------------------------------------------|
+| 🧿 Oraculum | Professional AI/ML for studies and business consultation                    |
+| 📃 SmartDocs | AI for modularized document generation, based on context and models         |
+| 🗂️ QMS      | Queue Management System with Telegram support, TTS, ads, and more           |
 
 ---
 
@@ -45,14 +45,16 @@
 
 ---
 
-How to support:
-  - PIX (Brazil): 41992932211
-  - BTC: 15F3HAg4DcwtnhCmYNw3sApxb4WWgN3dgp
-  - LTC: 0xddbe933209d80d09e87a9927d84515f403c556b0
-  - ETH: 0xddbe933209d80d09e87a9927d84515f403c556b0
-  - XRP: 0xddbe933209d80d09e87a9927d84515f403c556b0
+## 💖 Support
+
+- **PIX (Brazil):** `41992932211`  
+- **BTC:** `15F3HAg4DcwtnhCmYNw3sApxb4WWgN3dgp`  
+- **LTC:** `0xddbe933209d80d09e87a9927d84515f403c556b0`  
+- **ETH:** `0xddbe933209d80d09e87a9927d84515f403c556b0`  
+- **XRP:** `0xddbe933209d80d09e87a9927d84515f403c556b0`  
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GLarsX7&style=flat-square&color=blue" alt="Profile views"/>
 </p>
