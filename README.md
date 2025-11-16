@@ -4,8 +4,11 @@
 🎓 Systems Analysis and Development Student | Brazil  
 🌍 International experience: Brazil, Italy, Portugal
 
+<div align="center">
+
 [![Profile Views](https://komarev.com/ghpvc/?username=GLarsX7&style=flat-square&color=blue)](https://github.com/GLarsX7)
 
+</div>
 ---
 
 ## 🧠 Core Backend Competencies
@@ -45,6 +48,8 @@
 | **Testing** | PyTest, unittest, integration testing |
 | **Frontend** | Dart/Flutter (cross-platform development) |
 
+- Additional: Node.js, TypeScript (familiarity)
+- 
 ---
 
 ## 🚀 Featured Projects
@@ -124,3 +129,4 @@
 <p align="center">
   <em>Open to backend development opportunities and technical collaborations</em>
 </p>
+
