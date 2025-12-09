@@ -117,6 +117,8 @@ Comprehensive documentation of proven expertise across production projects:
 ### 🧿 Oraculum
 **AI-powered knowledge retrieval platform for enterprise and education**
 
+[![View Project](https://img.shields.io/badge/View_Project-009688?style=flat-square&logo=github)](https://github.com/GLarsX7/projects_hub/blob/main/ORACULUM.md)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -149,10 +151,14 @@ Comprehensive documentation of proven expertise across production projects:
 
 **Technical Deep Dive**: [Python](https://github.com/GLarsX7/knowledge-hub/blob/main/PYTHON.md#smartdocs---context-aware-document-generation-system) · [FastAPI](https://github.com/GLarsX7/knowledge-hub/blob/main/FASTAPI.md#smartdocs---context-aware-document-generation-system) · [PostgreSQL](https://github.com/GLarsX7/knowledge-hub/blob/main/POSTGRESQL.md#smartdocs---context-aware-document-generation-system) · [Flutter](https://github.com/GLarsX7/knowledge-hub/blob/main/FLUTTER.md#smartdocs---context-aware-document-generation-system)
 
+> **Note**: Detailed project documentation coming soon
+
 ---
 
 ### 🗂️ Queue Management System (QMS)
 **Enterprise queue orchestration with multi-channel integration**
+
+[![View Project](https://img.shields.io/badge/View_Project-009688?style=flat-square&logo=github)](https://github.com/GLarsX7/projects_hub/blob/main/QMS.md)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -175,6 +181,8 @@ Comprehensive documentation of proven expertise across production projects:
 ### 🔧 FlowForge
 **Visual DevOps configuration builder for Docker, GitHub Actions, and SQL**
 
+[![View Project](https://img.shields.io/badge/View_Project-02569B?style=flat-square&logo=github)](https://github.com/GLarsX7/projects_hub/blob/main/FLOWFORGE.md)
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -189,6 +197,8 @@ Comprehensive documentation of proven expertise across production projects:
 
 ### 🚀 DevSync
 **Desktop deployment automation with Git and GitHub integration**
+
+[![View Project](https://img.shields.io/badge/View_Project-3776AB?style=flat-square&logo=github)](https://github.com/GLarsX7/projects_hub/blob/main/DEVSYNC.md)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -205,6 +215,8 @@ Comprehensive documentation of proven expertise across production projects:
 
 ### 🎮 RetroArcade Frontend
 **Cross-platform retro game emulation with plugin architecture**
+
+[![View Project](https://img.shields.io/badge/View_Project-00599C?style=flat-square&logo=github)](https://github.com/GLarsX7/projects_hub/blob/main/RETROARCADE.md)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-000000?style=flat-square)
