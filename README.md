@@ -255,6 +255,7 @@ Comprehensive documentation of proven expertise across production projects:
 - Agile methodologies and project planning
 - Cross-functional team collaboration
 
+"I may not know everything today, but I have the discipline and the curiosity to learn anything tomorrow."
 ---
 
 ## Professional Highlights
